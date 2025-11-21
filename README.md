@@ -2,13 +2,14 @@
 ### danish150106@gamil.com
 
 ## Commands
--npm install
--npm run dev
+```bash
+npm install
+npm run dev
 
 
 ---
 
-# **React Assignment – useEffect Quiz**
+# **React Assignment Day 4 Quiz**
 
 ## **1. What is the primary purpose of the useEffect hook?**  
 **Answer:** b) To handle side effects in functional components
