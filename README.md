@@ -2,8 +2,8 @@
 ### danish150106@gamil.com
 
 ## Commands
-npm install
-npm run dev
+-npm install
+-npm run dev
 
 
 ---
